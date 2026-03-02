@@ -1,0 +1,19 @@
+# Maven
+target/
+*.log
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-gradle/
+
+# IntelliJ / VSCode (por si acaso)
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
